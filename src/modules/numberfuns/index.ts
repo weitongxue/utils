@@ -1,6 +1,7 @@
-/*
- * @Descripttion: 数字函数
- * @Author: weitongxue
+/**
+ * 数字计算处理
+ * @packageDocumentation
+ * @module numberfuns
  */
 import { isEmpty } from '../commonfuns/index'; 
 /**
