@@ -1,4 +1,9 @@
 /**
+ * 基础处理
+ * @packageDocumentation
+ * @module commonfuns
+ */
+/**
  * 判断value是否为空值
  * @param {string} value 传入的参数
  * @return {boolean} true 为空值
